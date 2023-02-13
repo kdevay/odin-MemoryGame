@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/odin-MemoryGame/static/css/main.1bd6b4b6.css",
+    "main.js": "/odin-MemoryGame/static/js/main.ae98998c.js",
+    "static/media/cactus.jpeg": "/odin-MemoryGame/static/media/cactus.a09e035dfd8b9b961417.jpeg",
+    "static/media/passion.jpeg": "/odin-MemoryGame/static/media/passion.cedc6e80907fe94fd5f8.jpeg",
+    "static/media/composite.jpeg": "/odin-MemoryGame/static/media/composite.da2bd63e9f588f360076.jpeg",
+    "static/media/caper.jpeg": "/odin-MemoryGame/static/media/caper.f561303af78fc601c1c7.jpeg",
+    "static/media/nasturtium.jpeg": "/odin-MemoryGame/static/media/nasturtium.78dd9bba2a129e75b8ad.jpeg",
+    "static/media/myrtle.jpeg": "/odin-MemoryGame/static/media/myrtle.9799d2837e584ff94d5a.jpeg",
+    "static/media/umbel.jpeg": "/odin-MemoryGame/static/media/umbel.a637fd425eae03f11303.jpeg",
+    "static/media/gourd.jpeg": "/odin-MemoryGame/static/media/gourd.c072f72fbc13e11dfdee.jpeg",
+    "static/media/rose.jpeg": "/odin-MemoryGame/static/media/rose.13d379b319550e3d4b5d.jpeg",
+    "static/media/apple.jpeg": "/odin-MemoryGame/static/media/apple.47311a00aecd4aee76fa.jpeg",
+    "static/media/sideSaddle.jpeg": "/odin-MemoryGame/static/media/sideSaddle.34a80965f5a178a6eff9.jpeg",
+    "static/media/poppy.jpeg": "/odin-MemoryGame/static/media/poppy.fd7dfe96d9daa8e322af.jpeg",
+    "index.html": "/odin-MemoryGame/index.html",
+    "main.1bd6b4b6.css.map": "/odin-MemoryGame/static/css/main.1bd6b4b6.css.map",
+    "main.ae98998c.js.map": "/odin-MemoryGame/static/js/main.ae98998c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bd6b4b6.css",
+    "static/js/main.ae98998c.js"
+  ]
+}
