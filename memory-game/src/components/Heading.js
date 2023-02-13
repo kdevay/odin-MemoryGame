@@ -1,10 +1,10 @@
 import React from 'react';
 
 export default function Heading(props) {
-    const {score, topScore} = props;
-    console.log('score: ', score)
+    const {setIsHelp, score, topScore} = props;
     return(
         <div id='heading'>
+            <button onClick={handleHelp}>?</button>
             <h1 id='title'>Memory Game</h1>
             <div id='scoreBoard'>
                 <h5>Score: {score}</h5>
